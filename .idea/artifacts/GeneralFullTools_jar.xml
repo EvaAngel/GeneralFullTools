@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GeneralFullTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeneralFullTools_jar</output-path>
+    <root id="archive" name="GeneralFullTools.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../intellij/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="GeneralFullTools" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/poi-ooxml-schemas-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/poi-ooxml-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/xmlbeans-xmlpublic-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/dom4j-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/xbean-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/bcprov-jdk15on-161.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/poi-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/commons-text-1.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
